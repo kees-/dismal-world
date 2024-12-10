@@ -1,0 +1,13 @@
+name = "TerraFirmaCraft Ars Nouveau Compatibility"
+filename = "tfcan-1.0-SNAPSHOT.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/pbWjqCht/versions/aOvW7mOU/tfcan-1.0-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "3780350c9cb2369a03f9e55a707d0d7b739469847208680468a2b4a97e0e84a60b6e92381f05244c705ab94c526882f859a05fe7c77886b07e1b0c8b34b601af"
+
+[update]
+[update.modrinth]
+mod-id = "pbWjqCht"
+version = "aOvW7mOU"

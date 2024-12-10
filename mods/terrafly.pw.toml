@@ -1,0 +1,13 @@
+name = "TerraFly"
+filename = "terrafly-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a702e5657eda807a28eeec21fd100f35043c8986"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5568784
+project-id = 1071803
