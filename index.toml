@@ -633,14 +633,6 @@ file = "config/roughlyenoughitems/hints.json"
 hash = "5ac767268bccc2d4ab1537a6d24ee379e98d4619dd9c98889c96001d3d6a8bfa"
 
 [[files]]
-file = "config/roughlyenoughitems/pinyin.properties"
-hash = "6f8338c0ce5a15f580eddf6c1b631621baba6114d6b5a1eed6c2292091db51c7"
-
-[[files]]
-file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "7b20981ab3bd081b97a03a8f84e3c337f4bab0e9be814418590ccb17feedd7e3"
-
-[[files]]
 file = "config/rubidium-mixins.properties"
 hash = "28e5b8f2e7d93aa4a086c908e6fe135055d1ebda0eb5465d165e1d3790f34a1b"
 
@@ -791,7 +783,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "09b84a42da91339efbc640824636624920b1fd74b7e251d70adbb3217b3f7cf3"
+hash = "5994f2b1c61f6d8211413c1cb999464fc5e87439129f6f0b086daf64fda9ec96"
 metafile = true
 
 [[files]]
@@ -821,7 +813,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "7fe982eca8620fb8083cb92d1ea0391163226d907f78706fb2f5b9b2a16fd4e7"
+hash = "8d6868d49ba4e297c80b60b67528f74b82aa75ce5ac7c42272dee6be1f64069d"
 metafile = true
 
 [[files]]
@@ -856,7 +848,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "cd99bc60ea4a1a23218a1dd5b72a190b58930323b1a791686110949e4291f470"
+hash = "2a3ca7fd7c0ee00e58e7808c8bb5b505bfc7cb94a1f28c9cb3eea23f35b0a885"
 metafile = true
 
 [[files]]
@@ -871,32 +863,27 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "eed59047e6c15e3a4f02be09c2b862e9881446be5622ee3c60e042d187b660fe"
+hash = "1777a42625e8e81960604faea6872298ab4326aef5fb6f45adb7d11227e20aed"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "0b06dd1098b63020237604b73d28282bce334b6cfe9644524b3af1de4db70faf"
+hash = "6409630c14c12169d87ccd7c25ca16cbf6645f98f002ae7060d445254f307230"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "e9a33f79f47433a442fbe50fda5e9f1fcf4341bd4bea561c4ec23e2743d64025"
+hash = "738bca478ab07a0273e2f9ba8ca292dc1381d8e5860f15fbd3d25a7d26a3a949"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight-tfc.pw.toml"
-hash = "0c634721025a8a8080f5a2401208b17753d2d4e1ff936d4f1653bc03d37e8efb"
+hash = "7afb4ff206ee568e80aebe70832c55a0068607390d6ed211ee16030963ce1629"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "33a72d14d33abd2bd32d2f2986930ae58a8d6dde581656a08b466df10d0250e8"
-metafile = true
-
-[[files]]
-file = "mods/fbp-renewed.pw.toml"
-hash = "da7e4bbe5e52558719e07fc4e596d5e394a8b2ae60ea2040222685d7924be338"
 metafile = true
 
 [[files]]
@@ -930,8 +917,8 @@ hash = "5508a5c035dffcb22c6ff5b2a52235f753fc4361221be8b97c25b8650efefba6"
 metafile = true
 
 [[files]]
-file = "mods/inventory-sorter.pw.toml"
-hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
+file = "mods/inventory-sorter-configurable.pw.toml"
+hash = "54a9de45f06ffa293e98b341a3e60ac1d993e7c42b18ab4648d3ec8bc9671566"
 metafile = true
 
 [[files]]
@@ -1046,7 +1033,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfc-ambiental-second-edition.pw.toml"
-hash = "799bd5e36db262fef97525ca39f0b07dcc6284c9d3fb75d61a9606516f935da8"
+hash = "1a8c5561ff3a495cf17a0a3d5993d5a72b619f8e2dcde54169e013e0c6b1bc56"
 metafile = true
 
 [[files]]

@@ -1,11 +1,11 @@
 name = "DismalWorldServer"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8ff070d196890874a93c2061e4c1c94897f874b12ad9429ed3c4d266488427b6"
+hash = "313dab4f36a5a6e94df0130e61e4d75f41768e944dc07041d7a815ca12269c7b"
 
 [versions]
 forge = "47.3.7"
