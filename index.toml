@@ -768,7 +768,7 @@ metafile = true
 
 [[files]]
 file = "mods/almanac.pw.toml"
-hash = "416c089224a401ec7c0ef60ae6f1f8555e783f89ec6aba49d72f41c58d7955d2"
+hash = "f3c12f6320ce830c9f8f846e82c461239c14bc57a8d41940caf7bead656295f0"
 metafile = true
 
 [[files]]
@@ -1085,10 +1085,6 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "a01017e22438b69e560478b12aece5b8772ec4e3caa6d77070d50ea05d4ab45d"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "6c487c48d2468a3097d5ccde98adcacae9720ebacf99aefa3044a3b78f333cbc"
 
 [[files]]
 file = "packwiz-installer.jar"
