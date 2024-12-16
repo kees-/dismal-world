@@ -997,6 +997,11 @@ hash = "3cf8b0b943ef4e88b788d86284f634d7f3a252b642ac0c5b41c7ef2ff548238f"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "6f13cf7ee6ed32570b37f8c08bcdbc07ac31ea959d58c9f4fd618bffe56b3c9e"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items-hacks.pw.toml"
 hash = "7a39d6d8faddf9ac5f10aa1b3c271b8dc27b1f79531bdbeefb8d268b68e9eef5"
 metafile = true
