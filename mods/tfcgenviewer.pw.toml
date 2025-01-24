@@ -1,13 +1,13 @@
 name = "TFCGenViewer"
-filename = "tfcgenviewer-1.20.1-1.4.0.jar"
+filename = "tfcgenviewer-1.20.1-1.4.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yp9Ot3YC/versions/Bxd1ZELJ/tfcgenviewer-1.20.1-1.4.0.jar"
+url = "https://cdn.modrinth.com/data/yp9Ot3YC/versions/nLcjWGDP/tfcgenviewer-1.20.1-1.4.1.jar"
 hash-format = "sha512"
-hash = "23db27f5ccfd71224e646f98dc97dfaae2c5eac4bc2b1b2a958ea7caafa85893d78b253e2f649230fc1c5dd78974b66c5aea053112501ac0df6cd2dfc9e8d13a"
+hash = "f9c1bb568329833b369cf2c2b0a3bafb7a75787919b4a736d997e7a51793115f7e4f24002bf59ee51957d7fe483733727bee904b0f09d3ae403f94e6dc0faa06"
 
 [update]
 [update.modrinth]
 mod-id = "yp9Ot3YC"
-version = "Bxd1ZELJ"
+version = "nLcjWGDP"
