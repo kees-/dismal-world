@@ -1042,6 +1042,11 @@ hash = "1a8c5561ff3a495cf17a0a3d5993d5a72b619f8e2dcde54169e013e0c6b1bc56"
 metafile = true
 
 [[files]]
+file = "mods/tfc-casting-with-channels.pw.toml"
+hash = "bdaae7f102d199248ef822d1b46ea61a75a953fe50d1baea008d0b2721363813"
+metafile = true
+
+[[files]]
 file = "mods/tfc-electrical-appliances.pw.toml"
 hash = "7de795ea38a751cfc8d0c10fb3a9905fdaa24b5378a52eca6e81501fdb015d38"
 metafile = true
