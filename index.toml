@@ -1068,7 +1068,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfcgenviewer.pw.toml"
-hash = "90b5db57e9efe4639bbbe2a4d4b3a876db2dc5b1a359a437bfc9bf567cabc858"
+hash = "5d54ec4667e370a92ea99812c807fc52f8cb0de7027e876feb305c0a127f71a2"
 metafile = true
 
 [[files]]

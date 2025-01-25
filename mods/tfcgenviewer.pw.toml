@@ -1,6 +1,6 @@
 name = "TFCGenViewer"
 filename = "tfcgenviewer-1.20.1-1.4.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/yp9Ot3YC/versions/nLcjWGDP/tfcgenviewer-1.20.1-1.4.1.jar"
