@@ -421,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "f449d61ae6e7df0488dbc3807b07feb13eeb02a4f3d0895d9e03d0ebc89a9209"
+hash = "6bc053d5973088b4fa2e7f3f98c0c574b613f7241630305ea879bc536bf35d01"
 metafile = true
 
 [[files]]
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d200393b4761cbfec1664fc1a8c1c2326665beaccf6dfb430741dbd03e3c208c"
+hash = "59c83aff76fec2f34cf0ddd59dc926b6c6a3baaed67764b9511bc77b52427156"
 metafile = true
 
 [[files]]
