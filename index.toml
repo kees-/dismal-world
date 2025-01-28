@@ -61,10 +61,6 @@ file = "config/betterfoliage-client.toml"
 hash = "0e55c422c5ec7c1aa2d9f3d8c1e36e6c1984bd12d578cc170278f145790a5c39"
 
 [[files]]
-file = "config/betterthirdperson-common.toml"
-hash = "3843f47cb52faddf9bc4d8dd08a4d7e30061e671128d99412ca6a6c27bd1485b"
-
-[[files]]
 file = "config/chat_heads.json5"
 hash = "53f1eec25e4b4457fce81b1349f18ca44b2dcd3a47092a609b4a0db02362f008"
 
@@ -83,10 +79,6 @@ hash = "541ee90994c1cf3d4e132df2ac3ff74004bc3952d3914ae843b5089a4dda8a95"
 [[files]]
 file = "config/dynamic_fps.json"
 hash = "7513eea068f0e64fb9f4ca2c44f46c4ed4446772e06c37125a47abde958dfde3"
-
-[[files]]
-file = "config/dynamic_lights_reforged.toml"
-hash = "f6e6e9b80a3d95639a0cf81f53bd6fdd2b9064e56124025fbd7cb5731fcfd253"
 
 [[files]]
 file = "config/dynamiclights.json"
@@ -197,44 +189,8 @@ file = "config/jade/sort-order.json"
 hash = "1e1a77921e37cc30b930a2445819499c5cb51c699da4a6cd24814a8a09deb0b0"
 
 [[files]]
-file = "config/jei/blacklist.cfg"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "fb99b164d45df74bd8fb5f9f5d835d4e5ba74cbd113fc827445c5e5b8e4e0e0b"
-
-[[files]]
-file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "78d1115680c28f843114696ddd6c33f55dd8920cb3422cb8d30aa125fd95bbda"
-
-[[files]]
-file = "config/jei/jei-client.ini"
-hash = "cc27b0607a31e0281af32da814ea054bf30667e30183ba26374cdd6528187ef2"
-
-[[files]]
-file = "config/jei/jei-colors.ini"
-hash = "c6328dcf3fb8b20a9f6ea6b61266ce289565c167353e183a105fb4915c36c072"
-
-[[files]]
-file = "config/jei/jei-debug.ini"
-hash = "a3a73e41687bcb80e3d303677125bda5929e611ae4b3ca44af9ba54e25eb4c88"
-
-[[files]]
-file = "config/jei/jei-mod-id-format.ini"
-hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
-
-[[files]]
-file = "config/jei/recipe-category-sort-order.ini"
-hash = "fcf527a8f6339dec87b1b8998377f13283eab8d4bcbf225ee98c30f0fb00d79d"
-
-[[files]]
 file = "config/jeresources-common.toml"
 hash = "13a4d5e1d1ac4207cbebef810696525975ec4f0c2470f6b858cbd9f62a6cd3ec"
-
-[[files]]
-file = "config/jeresources.toml"
-hash = "b101c668c6c658e2db126b7f6d3b9eb913537ff8903fbfce0128534299b2aea5"
 
 [[files]]
 file = "config/justzoom/config.txt"
@@ -309,16 +265,8 @@ file = "config/rubidium-mixins.properties"
 hash = "28e5b8f2e7d93aa4a086c908e6fe135055d1ebda0eb5465d165e1d3790f34a1b"
 
 [[files]]
-file = "config/ryoamiclights.toml"
-hash = "6db5c9bfa982c4334fe58dada8a922fdde7ccd685cfda5d4ffad5de31d589262"
-
-[[files]]
 file = "config/skinlayers.json"
 hash = "91dda7ff0e6d52d1d99d8196cd5f5e3d165075c194e19344fa8a034ef39b6a4c"
-
-[[files]]
-file = "config/sodiumdynamiclights-client.toml"
-hash = "a07f02d32ca757d3aab93dbff71081a33ea30300d85a0e5defee53eb83e7161f"
 
 [[files]]
 file = "config/tfc-client.toml"
@@ -347,14 +295,6 @@ hash = "d27ffcf462bebf9650a8d144916e305ace28621ce2f2125aecf0635777f76120"
 [[files]]
 file = "config/tfcweather-common.toml"
 hash = "7f7c417c462db0eff888bdb9f082c8dc8dfaae03e3ab934ce6e76bccfc17c543"
-
-[[files]]
-file = "config/treechop-client.toml"
-hash = "ae1995c3bac2a03f767a2c8da6af75364f8a0fc8de6bd82334d05191d97bdc79"
-
-[[files]]
-file = "config/treechop-common.toml"
-hash = "52cbac225704a60bd7ce007bd378bc5cbfdf7d89530a0990b3c801ea299aa1fb"
 
 [[files]]
 file = "config/waila/blacklist.json"
@@ -399,10 +339,6 @@ hash = "d45f5b711dce6d0d35e8cbfd4e78b9a2f654a69f1cfe45d81be8dfa9c42c7d78"
 [[files]]
 file = "config/watut-common.toml"
 hash = "323737c2bd12d1f45b3f7f110960d13c89a7048a58176d36f144948df340b02b"
-
-[[files]]
-file = "config/watut-item-arm-adjustments.json"
-hash = "c3f6428a4b3f952eb3fcd29dc370f270b97dc720bf0806d1e660d11ff2327051"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
