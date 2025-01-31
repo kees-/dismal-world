@@ -13,6 +13,14 @@ file = "config/tfc-common.toml"
 hash = "d8a9f5b848a27c854a6ef6c863b180065aac8d704fc565fa4a43962eb922025b"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "99487dc8b9b47ec786e8a5d491e6fe60f06af23dfb6bb802f2d821c01126530e"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "7bcaa909613c955d99e6982018a780622dfc91c6dd462791f5e67c17599d5a3f"
+
+[[files]]
 file = "mods/advanced-tfc-tech-unofficial.pw.toml"
 hash = "fd3ad6e503ea911616352cc34231ae78deafbda6307d28b3a21483b8818f6581"
 metafile = true
