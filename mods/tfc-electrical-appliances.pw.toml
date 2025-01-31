@@ -3,11 +3,11 @@ filename = "tfcea-0.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "13638888685ddf65e138bdeb6e4c684b0a956cbb"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/1M8YQeNa/versions/baqQSpAP/tfcea-0.0.2.jar"
+hash-format = "sha512"
+hash = "e965532482b97dee44e31def3dbd989dd6856025b43406a10b41d9ca31a249753f1ac07db5516431d6744b06e6b47249c51c9fef0f0a040378bfa95e0caaae77"
 
 [update]
-[update.curseforge]
-file-id = 5338560
-project-id = 1017637
+[update.modrinth]
+mod-id = "1M8YQeNa"
+version = "baqQSpAP"

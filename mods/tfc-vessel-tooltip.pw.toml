@@ -1,13 +1,13 @@
 name = "TFC Vessel Tooltip"
 filename = "TFCVesselTooltip-1.20.1-1.1.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "0ba5058d7a728119121acf09e0badb3c87d2f319"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Xve2AFV9/versions/3kdOHSCs/TFCVesselTooltip-1.20.1-1.1.jar"
+hash-format = "sha512"
+hash = "5d83c2327994ec3c408aa007f650aeeb0e9a7d20ecd46fb39d3a007fa80100c7eaa854dff6bf268e6bae4aa592920faa59e1799b6b29d4b1463ffd7f90656d5f"
 
 [update]
-[update.curseforge]
-file-id = 5677386
-project-id = 952386
+[update.modrinth]
+mod-id = "Xve2AFV9"
+version = "3kdOHSCs"

@@ -1,13 +1,13 @@
-name = "FirmaLife"
+name = "Firmalife"
 filename = "Firmalife-1.20.1-2.1.15.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9151f69e32e11b26ad2b951d7d59a6a80c338dc2"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/5bKeBHw2/versions/UZns29eV/Firmalife-1.20.1-2.1.15.jar"
+hash-format = "sha512"
+hash = "bd88c3465fe21d1dfe0ef766c7808aeeac8a696dc18c1f79938bc2247a46da09cec7c3b5f13b1f833b4259f314eb159fd2e7ddf52dde0fa3a50305123604eaaa"
 
 [update]
-[update.curseforge]
-file-id = 6033720
-project-id = 453394
+[update.modrinth]
+mod-id = "5bKeBHw2"
+version = "UZns29eV"

@@ -3,11 +3,11 @@ filename = "terrafly-1.0.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a702e5657eda807a28eeec21fd100f35043c8986"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/SToe0BhV/versions/2SdzqRr9/terrafly-1.0.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "dd7aa03e25cc5cd22f491225b5db77c52688ad2b58120ee8e57e87f3ec015a8725cd693777023a10c83fcc2697d0b3dd78c7dbaf6c3cc22187add436e5f72714"
 
 [update]
-[update.curseforge]
-file-id = 5568784
-project-id = 1071803
+[update.modrinth]
+mod-id = "SToe0BhV"
+version = "2SdzqRr9"

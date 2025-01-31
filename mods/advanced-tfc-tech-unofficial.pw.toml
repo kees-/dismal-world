@@ -3,11 +3,11 @@ filename = "AdvancedTFCTech-1.20.1-2.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "dd953d3843d5cc01241ee302b6286a896c2b9b74"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/wEKs9gH0/versions/WjHUA6Kl/AdvancedTFCTech-1.20.1-2.3.jar"
+hash-format = "sha512"
+hash = "b090963d8c0e5d505ea75dfca39cb77ed209aa384ea206dbd861e575f37860889aa00e032a24a16d9240b3207241c1ccbdcb2753e05bac0f104273b59462b153"
 
 [update]
-[update.curseforge]
-file-id = 5331939
-project-id = 862559
+[update.modrinth]
+mod-id = "wEKs9gH0"
+version = "WjHUA6Kl"

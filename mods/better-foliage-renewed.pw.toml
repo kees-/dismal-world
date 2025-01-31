@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4923669
 project-id = 470013
+
+[option]
+optional = true
+default = false
+description = "Fancier leaf blocks, resource intensive"

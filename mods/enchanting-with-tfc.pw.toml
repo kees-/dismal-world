@@ -3,11 +3,11 @@ filename = "Enchanting With TFC 1.20.1-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d9d229e53aefdc91b11261619678d734c5416072"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/RRO8GVJu/versions/OC9Vgjca/Enchanting%20With%20TFC%201.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "085d3fe4f3699cf73476f9fb7520465bf2b890f610e5753f0362ffa15b645d5cc5a93aaa3c4e57d280f4fb623a2de089f02fbce10ef8f04627adee2b4c1889cd"
 
 [update]
-[update.curseforge]
-file-id = 4903593
-project-id = 943255
+[update.modrinth]
+mod-id = "RRO8GVJu"
+version = "OC9Vgjca"

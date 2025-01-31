@@ -3,11 +3,11 @@ filename = "barrels_2012-2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "98ef976a9b356dce459fdd249ff19ad14fd375dd"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/hnvFIZaX/versions/moK5fhSI/barrels_2012-2.1.jar"
+hash-format = "sha512"
+hash = "b8e7072893dcb62d4382103894f47effd7e80585fee066dcc0e0ee2fae45a458a54d0d3f1893a9367e745f0adcd5602b794b28100976554881022e81d69202e0"
 
 [update]
-[update.curseforge]
-file-id = 4944918
-project-id = 662156
+[update.modrinth]
+mod-id = "hnvFIZaX"
+version = "moK5fhSI"

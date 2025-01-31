@@ -3,11 +3,11 @@ filename = "TFC-IE-Crossover-1.20.1-1.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b4a1fdea2ed9a66eab03813949271b62c3ace7d5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/IsYwQTKM/versions/yNtV8HAc/TFC-IE-Crossover-1.20.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "6228f8001d5a998e1baa8b18cc9e3dbeb61d5d38dad98c87d75f15ea76b78acf11f2206388f052cf44aaa343967889f3f179ca409076abb88578eaa590bcd555"
 
 [update]
-[update.curseforge]
-file-id = 5188548
-project-id = 830886
+[update.modrinth]
+mod-id = "IsYwQTKM"
+version = "yNtV8HAc"
