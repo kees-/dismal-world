@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "218637c9bd09f5c9a276b73dfb1b9c61c4f145c3b8f2c31ce8ea2cc33333d7d8"
+hash = "b4ef8e1e01e2215bb293087c80a81f89428bf309d049f8bc9cdd6b8c8037c79b"
 metafile = true
 
 [[files]]
@@ -107,12 +107,12 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "6bcbe0a5adf88912c5ef6126cb30e20f508f8c173fb0a8baf3a62e610f33a4e6"
+hash = "1b4494467fc1fa728ddcfdea4d1774274800025efbf44b48e4178dc2828cbcb2"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "560c2f4d64b502787bd5c2ab9e9b41cef6a04bb487cec7a6d3c85bc550539aeb"
+hash = "7790580a0867c3542a94469875b5d7b995ac6fbdda2c100f276f004eb630b340"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "738bca478ab07a0273e2f9ba8ca292dc1381d8e5860f15fbd3d25a7d26a3a949"
+hash = "3f88ff2db665fcaed3e12b41f4956956740e08badab26823ac6d5b20ce96ee15"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "f13061db33adc84d2bd562979d838f0e6e66808ff3e4285cbdbe44970f59792b"
+hash = "22ceac3dd118087ae3f8d4254b81afa8a028edb1d9df39869320dfe84b55e319"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/firmalife.pw.toml"
-hash = "a0e257739d15be2fc7d5d77a4c0b599830a93b5de2f94a4b804cc815ca77b7f4"
+hash = "6b09ad4b5e7ada3f1ef59c24166f2fc396f690b067493a6b05ec9d22a98e927e"
 metafile = true
 
 [[files]]
@@ -172,12 +172,12 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "106c836dcd40fb3f0b76a20790af9b744a8d02dcc04ef945fdecae112d0e2ba8"
+hash = "124201a3e9f804b7e3ded32d2cb415743f8b91cf124c7f7491bae915e434c4aa"
 metafile = true
 
 [[files]]
 file = "mods/immersiveengineering.pw.toml"
-hash = "fcb27576964bc17e215bd6b0514e77186f553582f476656c84f57dc96be76a5e"
+hash = "f0f53a142295b7d004100bea2cf0f60b06854b40eddc9abb8a447db4e57d4883"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "3cf8b0b943ef4e88b788d86284f634d7f3a252b642ac0c5b41c7ef2ff548238f"
+hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrafirmacraft.pw.toml"
-hash = "51bd327c5a490ea99b60a43fb7df375dba8c8f80b150e0c3b44d583311256eb3"
+hash = "d7eecdc8955935dc7e4d53590c0163e2d749f4314a277284daf85b83259ce51d"
 metafile = true
 
 [[files]]
@@ -357,12 +357,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "fcda183d9cd0a0a16dae38a7f2a9a0ccd595262ff673fd2de73656e080fdb8db"
+hash = "5f36851741efac984e0b48e0257bee623732c63211e7168c909dffcb7693b686"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8c77358028fd3373f100b388a1103c8356e30c8aa7a83bdbd42cd84b31671f8d"
+hash = "eaf0f4097fe73a8167df409b290d06fbb547155c2291eaea68dec885e5025735"
 metafile = true
 
 [[files]]

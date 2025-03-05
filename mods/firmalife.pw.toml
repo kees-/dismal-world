@@ -1,13 +1,13 @@
 name = "Firmalife"
-filename = "Firmalife-1.20.1-2.1.15.jar"
+filename = "Firmalife-1.20.1-2.1.16.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5bKeBHw2/versions/UZns29eV/Firmalife-1.20.1-2.1.15.jar"
+url = "https://cdn.modrinth.com/data/5bKeBHw2/versions/AL5ILy6Z/Firmalife-1.20.1-2.1.16.jar"
 hash-format = "sha512"
-hash = "bd88c3465fe21d1dfe0ef766c7808aeeac8a696dc18c1f79938bc2247a46da09cec7c3b5f13b1f833b4259f314eb159fd2e7ddf52dde0fa3a50305123604eaaa"
+hash = "8ff91547449413b050f0c0bcffa39695d6ef1d7235845c1ac76cf647efe4ffc6f7c8611252db16ee9a1ec870e38d83779fb084345773832c521b7c61b674f994"
 
 [update]
 [update.modrinth]
 mod-id = "5bKeBHw2"
-version = "UZns29eV"
+version = "AL5ILy6Z"
