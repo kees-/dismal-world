@@ -1,13 +1,13 @@
 name = "Inventory Sorter (Configurable)"
-filename = "inventorysorter-1.20.1-23.1.6.jar"
+filename = "inventorysorter-1.20.1-23.1.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5mTUz0VW/versions/mkQMMe1p/inventorysorter-1.20.1-23.1.6.jar"
+url = "https://cdn.modrinth.com/data/5mTUz0VW/versions/ItiqYtL3/inventorysorter-1.20.1-23.1.9.jar"
 hash-format = "sha512"
-hash = "f08f78cab3bcc93743a27b8b532d98fd10a1ac09d29070cf618b1a5e6bf29845447d442cce92b1b88ef4c6174889a244097d315d9f4c32a99c4b013a27caddaa"
+hash = "897467b59369d52bbbb38ab50cf1018371ca766187587bcee7c12708a8ab9cd58140b0d13040aba3fa512f602492056305d3c6287af17a6220c76d3f48dbb566"
 
 [update]
 [update.modrinth]
 mod-id = "5mTUz0VW"
-version = "mkQMMe1p"
+version = "ItiqYtL3"
