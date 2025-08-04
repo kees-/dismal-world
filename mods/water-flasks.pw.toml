@@ -1,13 +1,13 @@
 name = "Water Flasks"
-filename = "waterflasks-3.0.6.jar"
+filename = "waterflasks-3.0.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ONgsGaM9/versions/i7FOulRq/waterflasks-3.0.6.jar"
+url = "https://cdn.modrinth.com/data/ONgsGaM9/versions/VIl9hEx7/waterflasks-3.0.8.jar"
 hash-format = "sha512"
-hash = "d0e1b1646d374741c9abdf7de41c615b85e8c7d18fbb37bed46c6ddf5802ca2d52a96c999b54ac82eac77e40571b23a3dce1985973b8bfb858981fe13ef6bb3d"
+hash = "7cc5e39ac45223a4b28387a60e0b361d777f44f34b9baa5d24a1541a0a21c0decf86146c19dbe4fcc4892048c0ca4f5a5737d09210c42f61d0e34448b3390c47"
 
 [update]
 [update.modrinth]
 mod-id = "ONgsGaM9"
-version = "i7FOulRq"
+version = "VIl9hEx7"
